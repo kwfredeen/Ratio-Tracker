@@ -53,4 +53,6 @@ fields are either immutable or are not returned directly
     }
 
     //TODO: Get current effective ratio based on quantities
+    //theory: set smallest quantity to have an effective contribution of 1. other components are based on that quantity.
+    // i.e. for quantities 1.5, 3, 6, the effective ratio would be 1, 2, 4
 }
