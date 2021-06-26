@@ -11,5 +11,5 @@ None currently
 - UI that displays name of each item, desired ratio weight, current quantity, and a way to add or subtract from that quantity
 - Arbitrary number of items in the ratio
 - Display effective ratio, based on current quanitities
-- Save ratios to a file
+- Save and load ratios to and from a file
 - Ability to reset arati to 0 quantities
