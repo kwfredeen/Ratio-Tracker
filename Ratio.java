@@ -51,4 +51,6 @@ fields are either immutable or are not returned directly
         }
         return sum;
     }
+
+    //TODO: Get current effective ratio based on quantities
 }
